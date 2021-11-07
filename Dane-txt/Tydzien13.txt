@@ -1,0 +1,37 @@
+Brand	Produkt	Tydzien	Sprzedaz	Wojewodztwo	Miasto
+Sony	DVD	13	53	Dolnoslaskie	Wroclaw
+Philips	DVD	13	421	Lubelskie	Lublin
+Panasonic	DVD	13	673	Lubuskie	Zielona Gora
+Toshiba	DVD	13	72	Lodzkie	Lodz
+LG	DVD	13	417	Malopolskie	Krakow
+Samsung	DVD	13	70	Mazowieckie	Warszawa
+Sony	HiFi	13	524	Opolskie	Opole
+Philips	HiFi	13	422	Podkarpackie	Rzeszow
+Panasonic	HiFi	13	346	Podlaskie	Bialystok
+Toshiba	HiFi	13	283	Pomorskie	Sopot
+LG	HiFi	13	144	Slaskie	Katowice
+Samsung	HiFi	13	435	Swietokrzyskie	Kilece
+Sony	Aparat cyfrowy	13	5	Wielkopolskie	Poznan
+Philips	Aparat cyfrowy	13	91	Zachodniopomorskie	Koszalin
+Panasonic	Aparat cyfrowy	13	536	Dolnoslaskie	Wroclaw
+Toshiba	Aparat cyfrowy	13	528	Lubelskie	Lublin
+LG	Aparat cyfrowy	13	376	Lubuskie	Zielona Gora
+Samsung	Aparat cyfrowy	13	67	Lodzkie	Lodz
+Sony	Car Audio	13	73	Malopolskie	Krakow
+Philips	Car Audio	13	194	Mazowieckie	Warszawa
+Panasonic	Car Audio	13	476	Opolskie	Opole
+Toshiba	Car Audio	13	14	Podkarpackie	Rzeszow
+LG	Car Audio	13	103	Podlaskie	Bialystok
+Samsung	Car Audio	13	595	Pomorskie	Sopot
+Sony	Monitor	13	130	Slaskie	Katowice
+Philips	Monitor	13	134	Swietokrzyskie	Kilece
+Panasonic	Monitor	13	408	Wielkopolskie	Poznan
+Toshiba	Monitor	13	715	Zachodniopomorskie	Koszalin
+LG	Monitor	13	192	Dolnoslaskie	Wroclaw
+Samsung	Monitor	13	175	Lubelskie	Lublin
+Sony	LCD	13	333	Lubuskie	Zielona Gora
+Philips	LCD	13	372	Lodzkie	Lodz
+Panasonic	LCD	13	68	Malopolskie	Krakow
+Toshiba	LCD	13	394	Mazowieckie	Warszawa
+LG	LCD	13	493	Opolskie	Opole
+Samsung	LCD	13	79	Podkarpackie	Rzeszow
